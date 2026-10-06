@@ -1,0 +1,764 @@
+{
+  "profile": {
+    "name": "刘曙宾",
+    "nameEn": "LIU Shubin",
+    "headline": "ANS＆CAU HUB 创始人｜把10+ 款 AIGC 产品＆20+款AI全栈开发产品从 0 推到上线，累计100+客户。",
+    "email": "lsb0713@outlook.com",
+    "phone": "18518090752",
+    "wechat": "ANS_0912",
+    "github": "https://github.com/1008611-creater",
+    "city": "北京 · 海淀"
+  },
+  "model": {
+    "url": "/assets/models/me.bin?v=original-20260918",
+    "scale": 2.04077929834442,
+    "position": [
+      -0.000685,
+      -0.000666,
+      -2.1e-05
+    ]
+  },
+  "decals": [
+    {
+      "id": "85e1bca7",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/entp.webp",
+      "position": [
+        0.499738,
+        0.063854,
+        0.238356
+      ],
+      "normal": [
+        0.881292,
+        -0.079972,
+        0.465755
+      ],
+      "rotation": 0,
+      "size": [
+        0.1038,
+        0.11
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "ENTP"
+    },
+    {
+      "id": "6f97ba56",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/product-manager.webp",
+      "position": [
+        0.423178,
+        0.083743,
+        0.329815
+      ],
+      "normal": [
+        0.478531,
+        -0.34828,
+        0.806046
+      ],
+      "rotation": 0.358407346410207,
+      "size": [
+        0.095043,
+        0.105
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "产品经理"
+    },
+    {
+      "id": "19a81dba",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/gaming.webp",
+      "position": [
+        0.484673,
+        0.162561,
+        0.258031
+      ],
+      "normal": [
+        0.918041,
+        0.078237,
+        0.38869
+      ],
+      "rotation": 0,
+      "size": [
+        0.09,
+        0.082099
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "游戏"
+    },
+    {
+      "id": "ee0f6491",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/movies.webp",
+      "position": [
+        0.457968,
+        -0.044978,
+        0.239183
+      ],
+      "normal": [
+        0.555561,
+        -0.384186,
+        0.737396
+      ],
+      "rotation": 0,
+      "size": [
+        0.09,
+        0.088107
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "电影"
+    },
+    {
+      "id": "d58d0c23",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/karaoke.webp",
+      "position": [
+        0.46358,
+        0.197652,
+        -0.200582
+      ],
+      "normal": [
+        0.694046,
+        0.176778,
+        -0.697889
+      ],
+      "rotation": 0,
+      "size": [
+        0.08672,
+        0.09
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "K歌"
+    },
+    {
+      "id": "a60c7089",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/basketball.webp",
+      "position": [
+        0.513145,
+        0.225983,
+        -0.044987
+      ],
+      "normal": [
+        0.950452,
+        0.299216,
+        -0.084321
+      ],
+      "rotation": 0.308407346410207,
+      "size": [
+        0.063194,
+        0.07
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "篮球"
+    },
+    {
+      "id": "149e5a04",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/in-love.webp",
+      "position": [
+        0.401491,
+        0.106229,
+        -0.209135
+      ],
+      "normal": [
+        0.400694,
+        -0.177535,
+        -0.898847
+      ],
+      "rotation": -0.741592653589793,
+      "size": [
+        0.116564,
+        0.12
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "恋爱"
+    },
+    {
+      "id": "0cbc667d",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/cancer.webp",
+      "position": [
+        0.250564,
+        -0.032427,
+        -0.234483
+      ],
+      "normal": [
+        0.010482,
+        -0.440257,
+        -0.89781
+      ],
+      "rotation": 0,
+      "size": [
+        0.121663,
+        0.135
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "巨蟹座"
+    },
+    {
+      "id": "1d7ac085",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/beer.webp",
+      "position": [
+        0.517858,
+        0.133324,
+        -0.117268
+      ],
+      "normal": [
+        0.939265,
+        0.125959,
+        -0.319242
+      ],
+      "rotation": 0,
+      "size": [
+        0.06954,
+        0.075
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "啤酒"
+    },
+    {
+      "id": "0b3cc240",
+      "source": "upload",
+      "imageUrl": "/assets/stickers/social.webp",
+      "position": [
+        0.321491,
+        0.18644,
+        0.382266
+      ],
+      "normal": [
+        0.215367,
+        -0.072755,
+        0.973819
+      ],
+      "rotation": -0.191592653589793,
+      "size": [
+        0.072892,
+        0.075
+      ],
+      "metalness": 0,
+      "roughness": 1,
+      "opacity": 1,
+      "label": "社交"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ac5d5e71",
+      "order": 0,
+      "camera": {
+        "position": [
+          1.61565146,
+          0.46076762,
+          0.03537802
+        ],
+        "target": [
+          -0.351041,
+          -0.101129,
+          -0.041349
+        ]
+      },
+      "render": {
+        "background": "#202020",
+        "environment": {
+          "preset": "city",
+          "intensity": 0.5
+        },
+        "lights": {
+          "ambient": {
+            "intensity": 0.2,
+            "color": "#ffffff"
+          },
+          "key": {
+            "intensity": 0.8,
+            "color": "#ffffff",
+            "angle": 45,
+            "height": 1.2
+          }
+        },
+        "bloom": {
+          "enabled": true,
+          "intensity": 0.6,
+          "threshold": 0.9
+        },
+        "dof": {
+          "enabled": true,
+          "focusDistance": 0.6843744736507749,
+          "focusRange": 0.5,
+          "bokeh": 4
+        }
+      },
+      "overlay": {
+        "eyebrow": "2026 · Milestone",
+        "title": "ANS·New Chapter",
+        "subtitle": "AI Never Stops.",
+        "body": "New chapter begins.\nBuild AI,build future.",
+        "logo": "/assets/stickers/custom-logo.webp",
+        "links": [
+          {
+            "icon": "link",
+            "url": "https://ans.cauai.fun/"
+          }
+        ],
+        "thumbUrl": "/assets/thumbs/stop0.webp"
+      },
+      "thumbUrl": "/assets/thumbs/stop0.webp"
+    },
+    {
+      "id": "9b513d3f",
+      "order": 1,
+      "camera": {
+        "position": [
+          1.13558636,
+          0.4204756,
+          -0.90141758
+        ],
+        "target": [
+          -0.184799,
+          -0.007475,
+          0.251007
+        ]
+      },
+      "render": {
+        "background": "#202020",
+        "environment": {
+          "preset": "city",
+          "intensity": 0.5
+        },
+        "lights": {
+          "ambient": {
+            "intensity": 0.2,
+            "color": "#ffffff"
+          },
+          "key": {
+            "intensity": 0.8,
+            "color": "#ffffff",
+            "angle": 45,
+            "height": 1.2
+          }
+        },
+        "bloom": {
+          "enabled": true,
+          "intensity": 0.6,
+          "threshold": 0.9
+        },
+        "dof": {
+          "enabled": true,
+          "focusDistance": 0.7389926240084719,
+          "focusRange": 0.5,
+          "bokeh": 4
+        }
+      },
+      "overlay": {
+        "eyebrow": "2026 · 精选作品",
+        "title": "AIGC 作品集",
+        "subtitle": "极致性价比，拉满的创造力",
+        "body": "把参考一致性、首尾帧控制、节点复用与提示词稳定性当成可设计的约束，而不是靠多试几次——这是 AIGC 从\"出片\"走向\"生产系统\"的分界线。模型选型、工作流编排、交付验收全程独立推进，栈面覆盖 Hermes / ACP / Next.js / React / TypeScript / Three.js / FastAPI，并把上下文延续、工具调用与验证记录收束进真实流程，让效果、成本与交付标准同时可控。\n",
+        "links": [
+          {
+            "icon": "link",
+            "url": "https://video.cauai.fun/"
+          },
+          {
+            "icon": "link",
+            "url": "https://ai.cauai.fun/#home"
+          },
+          {
+            "icon": "link",
+            "url": "https://edit.cauai.fun"
+          },
+          {
+            "icon": "link",
+            "url": "https://dh.cauai.fun"
+          },
+          {
+            "icon": "link",
+            "url": "https://hb.cauai.fun"
+          }
+        ],
+        "thumbUrl": "/assets/thumbs/stop1.webp"
+      },
+      "thumbUrl": "/assets/thumbs/stop1.webp"
+    },
+    {
+      "id": "b7a48db2",
+      "order": 2,
+      "camera": {
+        "position": [
+          1.142035,
+          0.081463,
+          1.058862
+        ],
+        "target": [
+          0.171618,
+          0.028636,
+          -0.001614
+        ]
+      },
+      "render": {
+        "background": "#202020",
+        "environment": {
+          "preset": "city",
+          "intensity": 0.5
+        },
+        "lights": {
+          "ambient": {
+            "intensity": 0.2,
+            "color": "#ffffff"
+          },
+          "key": {
+            "intensity": 0.8,
+            "color": "#ffffff",
+            "angle": 45,
+            "height": 1.2
+          }
+        },
+        "bloom": {
+          "enabled": true,
+          "intensity": 0.6,
+          "threshold": 0.9
+        },
+        "dof": {
+          "enabled": true,
+          "focusDistance": 1.0155122496605986,
+          "focusRange": 0.5,
+          "bokeh": 4
+        }
+      },
+      "overlay": {
+        "eyebrow": "2026 · 工程实践",
+        "title": "全栈开发",
+        "subtitle": "从设计到上线，独立交付网站系统",
+        "body": "以 Next.js / React 19 / TypeScript 组织信息架构与状态流转，FastAPI + SQLAlchemy 承载数据模型；把路由边界、状态文件与验证脚本收束成可回归、可上线的工程闭环，从渲染到容器部署全程独立推进。\n",
+        "links": [
+          {
+            "icon": "link",
+            "url": "https://api.cauai.fun"
+          },
+          {
+            "icon": "link",
+            "url": "https://image2.lsb0713.online"
+          },
+          {
+            "icon": "link",
+            "url": "https://app.cauai.fun"
+          },
+          {
+            "icon": "link",
+            "url": "https://tutor.cauai.fun"
+          },
+          {
+            "icon": "link",
+            "url": "https://zhihu.cauai.fun"
+          }
+        ],
+        "thumbUrl": "/assets/thumbs/stop2.webp"
+      },
+      "thumbUrl": "/assets/thumbs/stop2.webp"
+    },
+    {
+      "id": "c19130bb",
+      "order": 3,
+      "camera": {
+        "position": [
+          1.01639412,
+          1.2646466,
+          -0.03243676
+        ],
+        "target": [
+          -0.037483,
+          0.089641,
+          -0.151072
+        ]
+      },
+      "render": {
+        "background": "#202020",
+        "environment": {
+          "preset": "city",
+          "intensity": 0.5
+        },
+        "lights": {
+          "ambient": {
+            "intensity": 0.2,
+            "color": "#ffffff"
+          },
+          "key": {
+            "intensity": 0.8,
+            "color": "#ffffff",
+            "angle": 45,
+            "height": 1.2
+          }
+        },
+        "bloom": {
+          "enabled": true,
+          "intensity": 0.6,
+          "threshold": 0.9
+        },
+        "dof": {
+          "enabled": true,
+          "focusDistance": 1.210006761331577,
+          "focusRange": 0.5,
+          "bokeh": 4
+        }
+      },
+      "overlay": {
+        "eyebrow": "2026 · 产品判断",
+        "title": "AI Agent 产品化",
+        "subtitle": "从单点生成，到多角色协作的生产系统",
+        "body": "以多角色 Agent 分工承载编剧、资产、分镜到生成的完整链路，用 RAG 检索增强、记忆系统与工具调用支撑跨轮上下文延续；把自主决策收束成可追溯、可验证的协作链路——包括让 Agent 在证据不足时拒绝给出结论，栈面覆盖 Hermes / ACP / ChatCut。\n",
+        "thumbUrl": "/assets/thumbs/stop3.webp"
+      },
+      "thumbUrl": "/assets/thumbs/stop3.webp"
+    }
+  ],
+  "presentation": {
+    "scrollSpeed": 1.4,
+    "environment": {
+      "preset": "city",
+      "intensity": 0.5,
+      "rotation": 0,
+      "autoRotate": false,
+      "rotateSpeed": 0.3
+    },
+    "timelineTemplate": "classic",
+    "nodeShape": "circle",
+    "nodeColor": "#ffd9b3",
+    "lineColor": "#f4f1ea",
+    "textColor": "#f4f1ea",
+    "accentColor": "#ffd9b3",
+    "defaultFont": "default",
+    "pointerParallax": true,
+    "noiseEnabled": false,
+    "noiseColor": "#8a8f99",
+    "noiseOpacity": 0.3
+  },
+  "hero": {
+    "title": "About LIU",
+    "body": "ANS＆CAU HUB 创始人｜把10+ 款 AIGC 产品＆20+款AI全栈开发产品从 0 推到上线，累计100+客户。\n",
+    "scrollHint": "Scroll down",
+    "cornerTL": "刘曙宾\nANS＆CAU HUB创始人",
+    "cornerTR": "2026·9·17",
+    "cornerBL": "AI never stops",
+    "cornerRight": "BEIJING·haidian",
+    "links": [
+      {
+        "icon": "github",
+        "url": "https://github.com/1008611-creater"
+      },
+      {
+        "icon": "mail",
+        "url": "v：ANS_0912"
+      },
+      {
+        "icon": "phone",
+        "url": "18518090752"
+      }
+    ],
+    "camera": {
+      "position": [
+        1.5731984552310736,
+        0.3368711719405649,
+        0.012050316343405587
+      ],
+      "target": [
+        -0.4589565602081398,
+        -0.070012036474619,
+        0.6492021541714267
+      ]
+    },
+    "thumbUrl": "/assets/thumbs/hero.webp",
+    "template": "editorial",
+    "frameColor": "#ffb801",
+    "render": {
+      "background": "#202020",
+      "environment": {
+        "preset": "city",
+        "intensity": 0.5
+      },
+      "lights": {
+        "ambient": {
+          "intensity": 0.2,
+          "color": "#ffffff"
+        },
+        "key": {
+          "intensity": 0.8,
+          "color": "#ffffff",
+          "angle": 45,
+          "height": 1.2
+        }
+      },
+      "bloom": {
+        "enabled": true,
+        "intensity": 0.6,
+        "threshold": 0.9
+      },
+      "dof": {
+        "enabled": true,
+        "focusDistance": 1.118487901388048,
+        "focusRange": 0.5,
+        "bokeh": 4
+      }
+    }
+  },
+  "loading": {
+    "background": "#202020",
+    "text": "Loading…",
+    "spinnerStyle": "dots",
+    "spinnerColor": "#cbf53d",
+    "template": "classic"
+  },
+  "portfolio": {
+    "enabled": true,
+    "template": "gallery-horizontal",
+    "title": "Works",
+    "hint": "Scroll on",
+    "bgColor": "#0a0c10",
+    "bgOpacity": 0.92,
+    "sections": [
+      {
+        "id": "aigc",
+        "title": "AIGC 产品线",
+        "items": [
+          {
+            "id": "video",
+            "name": "视频生成平台",
+            "url": "https://video.cauai.fun/",
+            "description": "AIGC / VIDEO · 参考一致性 · 首尾帧控制",
+            "image": "/assets/covers/video.jpg"
+          },
+          {
+            "id": "motion-portfolio",
+            "name": "AIGC 动效作品集",
+            "url": "https://jianli.cauai.fun/portfolio/",
+            "description": "AIGC / MOTION · 精选成片 · 场景素材库",
+            "image": "/assets/covers/motion-portfolio.jpg"
+          },
+          {
+            "id": "ai",
+            "name": "AI 创作中枢",
+            "url": "https://ai.cauai.fun/#home",
+            "description": "AI / WORKFLOW · 节点复用 · 提示词稳定",
+            "image": "/assets/covers/ai.jpg"
+          },
+          {
+            "id": "edit",
+            "name": "智能剪辑",
+            "url": "https://edit.cauai.fun",
+            "description": "AI / EDITING · 工作流编排",
+            "image": "/assets/covers/edit.jpg"
+          },
+          {
+            "id": "dh",
+            "name": "动态合成",
+            "url": "https://dh.cauai.fun",
+            "description": "AI / PIPELINE · 批量生产管线",
+            "image": "/assets/covers/dh.jpg"
+          },
+          {
+            "id": "hb",
+            "name": "合成引擎",
+            "url": "https://hb.cauai.fun",
+            "description": "AI / DELIVERY · 交付验收闭环",
+            "image": "/assets/covers/hb.jpg"
+          }
+        ]
+      },
+      {
+        "id": "fullstack",
+        "title": "全栈系统",
+        "items": [
+          {
+            "id": "api",
+            "name": "API 服务",
+            "url": "https://api.cauai.fun",
+            "description": "FULLSTACK / API · FastAPI + SQLAlchemy",
+            "image": "/assets/covers/api.jpg"
+          },
+          {
+            "id": "image2",
+            "name": "图像生成",
+            "url": "https://image2.lsb0713.online",
+            "description": "FULLSTACK / IMAGE · Next.js · React 19",
+            "image": "/assets/covers/image2.jpg"
+          },
+          {
+            "id": "app",
+            "name": "主站应用",
+            "url": "https://app.cauai.fun",
+            "description": "PRODUCT / APP · 信息架构 · 状态流转",
+            "image": "/assets/covers/app.jpg"
+          },
+          {
+            "id": "tutor",
+            "name": "AI 助教",
+            "url": "https://tutor.cauai.fun",
+            "description": "AI / RAG · RAG 检索增强",
+            "image": "/assets/covers/tutor.jpg"
+          },
+          {
+            "id": "zhihu",
+            "name": "知乎智能体",
+            "url": "https://zhihu.cauai.fun",
+            "description": "AGENT / MULTI-ROLE · 多角色协作",
+            "image": "/assets/covers/zhihu.jpg"
+          }
+        ]
+      },
+      {
+        "id": "agent",
+        "title": "AI Agent 产品化",
+        "items": [
+          {
+            "id": "ans",
+            "name": "ANS·New Chapter",
+            "url": "https://ans.cauai.fun/",
+            "description": "AGENT / PRODUCT · 多角色 Agent 分工",
+            "image": "/assets/covers/ans.jpg"
+          },
+          {
+            "id": "hermes",
+            "name": "Hermes 编排层",
+            "description": "AGENT / ORCHESTRATION · 工具调用 · 上下文延续",
+            "image": "/assets/covers/hermes.jpg"
+          },
+          {
+            "id": "acp",
+            "name": "ACP 协作协议",
+            "description": "AGENT / PROTOCOL · 可追溯 · 可验证链路",
+            "image": "/assets/covers/acp.jpg"
+          },
+          {
+            "id": "chatcut",
+            "name": "ChatCut",
+            "description": "AGENT / CREATIVE · 编剧 · 资产 · 分镜 · 生成",
+            "image": "/assets/covers/chatcut.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "site": {
+    "title": "刘曙宾 · LIU Shubin",
+    "accentColor": "#ffd9b3",
+    "textColor": "#f4f1ea",
+    "backgroundColor": "#202020"
+  }
+}

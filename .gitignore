@@ -1,0 +1,33 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+.vite/
+release/
+
+# 本地视觉回归截图 / 调试脚本（不进入版本库）
+.shots/
+*.tsbuildinfo
+# vite 配置文件的热重载临时产物
+vite.config.ts.timestamp-*.mjs
+
+# 原始素材（体积大，不进版本库。放进 assets-src/ 后就不会被构建拷进 dist）
+assets-src/
+
+# 模型/贴图的中间预览产物
+public/assets/models/*.opt.glb
+
+# 无头 Chrome 渲染验证的工作目录（临时）
+.tmp-view/
+
+# 归档整理补充（2026-10-06）
+.workbuddy-ai/memory/*.tmp
+*.bak
+*.bak-*
+# 视觉回归截图目录（.shots/ 的各个变体）
+.shots*/
